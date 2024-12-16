@@ -70,3 +70,25 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Visual Studio & Code Coverage files
+.vs/
+*.vsconfig
+*.sln.docstates
+*.VC.db
+*.opendb
+*.pidb
+*.mdb
+*.pdb
+*.svd
+*.suo
+*.tmp
+*.user
+*.userprefs
+
+# Code Coverage Reports
+*CodeCoverage/*
+*Microsoft.CodeCoverage*
+
+# Temporary Assembly Files
+*.AssemblyLoadContext-*
